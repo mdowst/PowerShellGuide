@@ -1,0 +1,3 @@
+@{
+    Allias = 'Comparison Operator'
+}
